@@ -1,2 +1,2 @@
 # Réservation des locaux
-Un api qui permet de faire des réservations des locaux choise
+Développement d'une API pour la gestion des réservations de locaux choisis par l'utilisateur.
